@@ -13,7 +13,7 @@ pipeline {
         //TODO: Customize these variables for your environment
         DEV_PROJECT = "p950hlz-movies-dev"
         STAGE_PROJECT = "p950hlz-movies-stage"
-        APP_GIT_URL = "https://github.com/p950hlz/DO288-apps"
+        APP_GIT_URL = "https://github.com/rihelo/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.eu45.prod.nextcle.com"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
